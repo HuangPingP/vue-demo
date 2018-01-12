@@ -2,7 +2,7 @@
   "name": "share",
   "version": "1.0.0",
   "description": "A Vue.js project",
-  "author": "连展鹏 <zhanpeng.lian@platenogroup.com>",
+  "author": "黄公子 <https://github.com/HuangPingP>",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
